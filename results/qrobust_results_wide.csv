@@ -1,0 +1,12 @@
+group,stage,orig,q100,q95,q75,q50,q30,q10
+Dense,rgb,76.518,76.520,76.546,76.518,76.208,75.450,69.572
+Dense,dct_float_freqnorm,74.458,74.290,74.298,74.458,74.334,73.674,66.536
+Dense,quant_dct_freqnorm,74.284,0.118,11.734,74.284,70.890,62.228,20.490
+Dense,ac_only_freqnorm,74.684,0.124,9.836,74.684,71.094,63.688,26.926
+Dense,dc_diff_ac_typedfreqnorm,74.852,0.118,11.994,74.852,71.480,63.406,25.206
+Event,rlc_dcac_flat_direct,69.138,1.240,8.606,69.138,62.322,48.562,9.836
+Event,huff_dcac_flat_direct,69.646,0.408,8.438,69.646,64.166,52.788,13.952
+Event,rlc_dcac_2d_cp_concat_conv_direct_d128,70.198,3.784,9.514,70.198,64.230,51.788,11.530
+Event,huff_dcac_2d_cp_concat_conv_direct_d128,71.454,1.376,8.786,71.454,66.170,54.606,16.332
+Raw byte,raw_byte_linear,48.894,0.674,3.582,48.894,38.932,24.606,5.136
+Raw byte,raw_byte_discrete_conv,57.914,0.800,3.266,57.914,50.238,35.916,6.688

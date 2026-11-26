@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Where Does JPEG Become Hard to Learn? A Stage-wise Evaluation of JPEG Representations for Visual Recognition"
+type: software
+authors:
+  - family-names: Zha
+    given-names: Changpei
+  - family-names: Miyazaki
+    given-names: Tomo
+  - family-names: Omachi
+    given-names: Shinichiro
+license: MIT
+repository-code: "https://github.com/zcp-connect/Stagewise-JPEG-ViT"
+preferred-citation:
+  type: conference-paper
+  title: "Where Does JPEG Become Hard to Learn? A Stage-wise Evaluation of JPEG Representations for Visual Recognition"
+  authors:
+    - family-names: Zha
+      given-names: Changpei
+    - family-names: Miyazaki
+      given-names: Tomo
+    - family-names: Omachi
+      given-names: Shinichiro
+  collection-title: "Pacific Rim International Conference on Artificial Intelligence (PRICAI)"
+  year: 2026
+  notes: "To appear"

@@ -1,0 +1,17 @@
+torch>=2.1
+torchvision
+numpy
+pandas
+scipy
+pillow
+einops
+yacs
+timm
+fvcore
+torchinfo
+torchmetrics
+tensorboard
+tqdm
+psutil
+sysrsync
+pybind11
